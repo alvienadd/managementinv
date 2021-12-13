@@ -138,7 +138,7 @@ const Customer = () => {
                   />
                 </div>
                 <div>
-                  <label style={{ fontWeight: 'bold' }}>Telepon : </label>
+                  <label style={{ fontWeight: 'bold' }}>Telp : </label>
                   <input
                     style={{ height: 30, marginLeft: 20, marginRight: 20 }}
                     type="text"
@@ -167,7 +167,7 @@ const Customer = () => {
           <br />
           <div>
             <table
-              width={1200}
+              width={1000}
               style={{
                 letterSpacing: 1,
                 border: '2px solid rgb(200, 200, 200)',

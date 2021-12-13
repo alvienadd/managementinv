@@ -117,7 +117,7 @@ const Pesanan = () => {
           <br />
           <div>
             <table
-              width={1200}
+              width={1000}
               style={{
                 letterSpacing: 1,
                 border: '2px solid rgb(200, 200, 200)',
